@@ -1,4 +1,4 @@
-# Coding Interview University
+# Coding Interview University [x]
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
 > but it grew to the large list you see today. After going through this study plan, [I got hired
@@ -48,7 +48,7 @@
 
 </details>
 
-## What is it?
+## What is it? [x]
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to software engineer for a large company.
 
@@ -184,7 +184,7 @@ If you want to be a reliability engineer or operations engineer, study more from
 
 ---
 
-## Why use it?
+## Why use it? [x]
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
 traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
@@ -195,7 +195,7 @@ thousands of associative arrays, but I've never created data structures from scr
 
 It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
 
-## How to use it
+## How to use it [x]
 
 Everything below is an outline, and you should tackle the items in order from top to bottom.
 
@@ -232,13 +232,13 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 
-## Don't feel you aren't smart enough
+## Don't feel you aren't smart enough [x]
 
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
-## About Video Resources
+## About Video Resources [x]
 
 Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
 Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
